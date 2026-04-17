@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../tests cs50"
+		},
+		{
+			"path": "../cs50py1"
+		},
+		{
+			"path": "../CS50AI"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
